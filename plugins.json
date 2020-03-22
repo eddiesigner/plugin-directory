@@ -395,7 +395,7 @@
     "title": "⚓️ Sketch - SelectPlus",
     "owner": "nathan5x",
     "author": "Sabarinathan Masilamani",
-    "lastUpdated": "2018-05-21 19:34:43 UTC"
+    "lastUpdated": "2020-03-15 06:32:01 UTC"
   },
   {
     "description": "A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.",
@@ -490,7 +490,7 @@
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-03-06 15:45:26 UTC"
+    "lastUpdated": "2020-03-16 19:11:24 UTC"
   },
   {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
@@ -1481,7 +1481,7 @@
     "title": "Replace Images",
     "author": "shakemno",
     "owner": "shakemno",
-    "lastUpdated": "2020-03-13 21:17:59 UTC"
+    "lastUpdated": "2020-03-19 17:36:31 UTC"
   },
   {
     "description": "Add Mouse Pointers to Sketch.",
@@ -2101,7 +2101,7 @@
     "author": "Bohemian Coding",
     "appcast": "https://raw.githubusercontent.com/BohemianCoding/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketchapp.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2020-03-13 21:46:09 UTC"
+    "lastUpdated": "2020-03-17 14:02:33 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -3286,7 +3286,7 @@
     "author": "Oscar Oto",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-03-06 11:31:27 UTC"
+    "lastUpdated": "2020-03-16 11:18:58 UTC"
   },
   {
     "title": "Blender",
@@ -3656,7 +3656,7 @@
     "owner": "sergeishere",
     "name": "HandyMenu-SketchPlugin",
     "homepage": "https://github.com/sergeishere/HandyMenu-SketchPlugin",
-    "lastUpdated": "2019-05-21 22:01:08 UTC"
+    "lastUpdated": "2020-03-16 20:40:09 UTC"
   },
   {
     "title": "chart",
@@ -3939,7 +3939,7 @@
     "appcast": "https://raw.githubusercontent.com/lukasoppermann/browser-preview/master/.appcast.xml",
     "homepage": "https://github.com/lukasoppermann/browser-preview",
     "author": "Lukas Oppermann",
-    "lastUpdated": "2020-03-14 13:41:36 UTC"
+    "lastUpdated": "2020-03-20 14:04:25 UTC"
   },
   {
     "title": "Rough",
@@ -4289,7 +4289,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameSync/master/.appcast.xml",
     "name": "SymbolNameSync",
-    "lastUpdated": "2019-12-21 14:14:03 UTC"
+    "lastUpdated": "2020-03-17 11:41:34 UTC"
   },
   {
     "title": "adjustToFit",
@@ -4343,7 +4343,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2019-06-03 09:15:19 UTC"
+    "lastUpdated": "2020-03-17 09:09:32 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4400,7 +4400,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2020-03-13 22:30:08 UTC"
+    "lastUpdated": "2020-03-16 16:43:05 UTC"
   },
   {
     "title": "Better Shadow",
@@ -4428,7 +4428,7 @@
     "owner": "reinvanoyen",
     "appcast": "https://raw.githubusercontent.com/reinvanoyen/typex/master/.appcast.xml",
     "homepage": "https://github.com/reinvanoyen/typex",
-    "lastUpdated": "2019-11-02 14:23:42 UTC"
+    "lastUpdated": "2020-03-15 09:01:52 UTC"
   },
   {
     "title": "ColorSpark for Sketch",
