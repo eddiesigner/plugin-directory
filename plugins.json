@@ -113,7 +113,7 @@
     "owner": "monzo",
     "author": "Monzo",
     "homepage": "https://github.com/monzo/file-cleaner",
-    "lastUpdated": "2020-03-13 23:48:44 UTC"
+    "lastUpdated": "2020-03-24 10:51:42 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -2311,7 +2311,7 @@
     "title": "SketchContentSync",
     "owner": "contentsync",
     "author": "ContentSync",
-    "lastUpdated": "2019-11-12 07:13:37 UTC"
+    "lastUpdated": "2020-03-23 17:39:01 UTC"
   },
   {
     "description": "Gets the margins between an inner and outer layer and then copies the results to the clipboard as CSS.",
@@ -2809,7 +2809,7 @@
     "title": "Sketch Image Replaste",
     "owner": "mheesakkers",
     "author": "Misha",
-    "lastUpdated": "2018-10-10 15:39:34 UTC"
+    "lastUpdated": "2020-03-27 11:33:10 UTC"
   },
   {
     "description": "A Sketch plugin for managing all plugin shortcuts.",
@@ -3286,7 +3286,7 @@
     "author": "Oscar Oto",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-03-16 11:18:58 UTC"
+    "lastUpdated": "2020-03-24 10:52:12 UTC"
   },
   {
     "title": "Blender",
@@ -4077,7 +4077,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-03-14 19:04:32 UTC"
+    "lastUpdated": "2020-03-23 14:19:07 UTC"
   },
   {
     "description": "Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.",
