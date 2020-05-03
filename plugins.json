@@ -2487,7 +2487,7 @@
     "title": "Symbol Organizer",
     "owner": "sonburn",
     "author": "Jason Burns",
-    "lastUpdated": "2019-04-11 21:40:10 UTC"
+    "lastUpdated": "2020-04-30 03:47:30 UTC"
   },
   {
     "description": "A Sketch plugin that lets you resize and reposition objects by using simple arithmetic commands, like `b+20,lr+20`. Multiple objects are supported.",
@@ -3418,7 +3418,7 @@
     "author": "Jason Burns",
     "owner": "sonburn",
     "name": "symbol-swapper",
-    "lastUpdated": "2020-04-05 21:05:55 UTC"
+    "lastUpdated": "2020-04-30 03:27:37 UTC"
   },
   {
     "title": "Sympli",
@@ -4077,7 +4077,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-03-23 14:19:07 UTC"
+    "lastUpdated": "2020-04-29 23:37:24 UTC"
   },
   {
     "description": "Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.",
