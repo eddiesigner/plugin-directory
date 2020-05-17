@@ -756,7 +756,7 @@
     "author": "Rodrigo Soares",
     "appcast": "https://raw.githubusercontent.com/rodi01/RenameIt/master/.appcast.xml",
     "homepage": "http://rodi01.github.io/RenameIt/",
-    "lastUpdated": "2020-05-06 03:11:55 UTC"
+    "lastUpdated": "2020-05-13 18:27:16 UTC"
   },
   {
     "description": "A box for random useful sketch commands meant to make work with layers easier. Contains most of my previous commands and plugins combined, plus a bunch of new ones.",
@@ -1721,7 +1721,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-05-08 15:45:33 UTC"
+    "lastUpdated": "2020-05-13 06:27:23 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -1980,7 +1980,7 @@
     "name": "AnimateMate",
     "owner": "Creatide",
     "author": "Sakari Niittymaa",
-    "lastUpdated": "2017-07-14 05:27:48 UTC",
+    "lastUpdated": "2020-05-11 14:57:22 UTC",
     "title": "AnimateMate"
   },
   {
@@ -2729,7 +2729,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-05-09 15:12:35 UTC"
+    "lastUpdated": "2020-05-10 21:12:38 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -3286,7 +3286,7 @@
     "author": "Oscar Oto",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-04-01 09:30:03 UTC"
+    "lastUpdated": "2020-05-16 05:32:35 UTC"
   },
   {
     "title": "Blender",
@@ -4202,7 +4202,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-05-07 07:22:00 UTC"
+    "lastUpdated": "2020-05-15 11:29:02 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
