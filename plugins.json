@@ -771,7 +771,7 @@
     "name": "sketch-measure",
     "title": "Sketch Measure",
     "owner": "utom",
-    "lastUpdated": "2020-01-27 19:35:57 UTC"
+    "lastUpdated": "2020-05-19 16:03:02 UTC"
   },
   {
     "description": "Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.",
@@ -3286,7 +3286,7 @@
     "author": "Oscar Oto",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-05-16 05:32:35 UTC"
+    "lastUpdated": "2020-05-22 16:13:15 UTC"
   },
   {
     "title": "Blender",
@@ -3739,7 +3739,7 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://designcode.io/angle",
-    "lastUpdated": "2018-10-08 13:52:21 UTC"
+    "lastUpdated": "2020-05-21 20:44:40 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -3825,7 +3825,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-FlowExporter/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-FlowExporter",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-03-14 08:57:22 UTC"
+    "lastUpdated": "2020-05-20 16:30:09 UTC"
   },
   {
     "title": "Plot",
@@ -4077,7 +4077,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-04-29 23:37:24 UTC"
+    "lastUpdated": "2020-05-20 15:17:02 UTC"
   },
   {
     "description": "Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.",
@@ -4202,7 +4202,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-05-15 11:29:02 UTC"
+    "lastUpdated": "2020-05-18 15:55:59 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
