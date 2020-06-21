@@ -293,7 +293,7 @@
     "owner": "cranksoftwaredev",
     "author": "Crank Software Inc.",
     "homepage": "https://github.com/cranksoftwaredev/SketchPlugins",
-    "lastUpdated": "2020-02-11 19:59:32 UTC"
+    "lastUpdated": "2020-06-17 17:26:26 UTC"
   },
   {
     "description": "Sketch plugin that helps you get your design files as clean as a whistle.",
@@ -2101,7 +2101,7 @@
     "author": "Bohemian Coding",
     "appcast": "https://raw.githubusercontent.com/BohemianCoding/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketchapp.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2020-03-17 14:02:33 UTC"
+    "lastUpdated": "2020-06-18 16:39:36 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -2729,7 +2729,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-06-09 21:39:31 UTC"
+    "lastUpdated": "2020-06-18 13:51:09 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -2737,7 +2737,7 @@
     "title": "Nudged",
     "owner": "KevinWoodhouse",
     "author": "Kevin Woodhouse",
-    "lastUpdated": "2018-07-03 07:37:31 UTC"
+    "lastUpdated": "2020-06-17 12:32:56 UTC"
   },
   {
     "description": "A Sketch plugin to export sketch file to Adobe After Effect",
@@ -2930,7 +2930,7 @@
     "title": "Batch Create Symbols",
     "owner": "demersdesigns",
     "author": "Paul Demers",
-    "lastUpdated": "2020-06-11 18:00:10 UTC"
+    "lastUpdated": "2020-06-15 17:27:09 UTC"
   },
   {
     "description": "Change the big and small nudge settings right within Sketch. Plus, get access to an even bigger nudge setting.",
@@ -3294,7 +3294,7 @@
     "author": "bunnieabc",
     "owner": "bunnieabc",
     "name": "Blender",
-    "lastUpdated": "2020-06-07 08:16:15 UTC"
+    "lastUpdated": "2020-06-19 18:08:32 UTC"
   },
   {
     "title": "Sketch Slicer",
@@ -3442,7 +3442,7 @@
     "owner": "heytitle",
     "appcast": "https://raw.githubusercontent.com/heytitle/latex-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/heytitle/latex-sketch-plugin",
-    "lastUpdated": "2020-01-26 14:54:23 UTC"
+    "lastUpdated": "2020-06-15 20:39:26 UTC"
   },
   {
     "title": "Sketch Syntax Highlighter",
@@ -3664,7 +3664,7 @@
     "author": "Pavel Kuligin",
     "owner": "pavelkuligin",
     "name": "chart",
-    "lastUpdated": "2020-04-17 00:03:27 UTC"
+    "lastUpdated": "2020-06-15 20:22:41 UTC"
   },
   {
     "description": "Version control for designers",
@@ -3739,7 +3739,7 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://designcode.io/angle",
-    "lastUpdated": "2020-06-02 19:09:55 UTC"
+    "lastUpdated": "2020-06-19 19:06:38 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -4022,7 +4022,7 @@
     "appcast": "https://raw.githubusercontent.com/abnamrocoesd/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/abnamrocoesd/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2018-05-28 12:35:31 UTC"
+    "lastUpdated": "2020-06-18 15:32:18 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
