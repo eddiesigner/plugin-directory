@@ -490,7 +490,7 @@
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-07-22 19:20:09 UTC"
+    "lastUpdated": "2020-08-24 15:00:30 UTC"
   },
   {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
@@ -1721,7 +1721,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-08-15 12:22:44 UTC"
+    "lastUpdated": "2020-08-23 14:02:32 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -2101,7 +2101,7 @@
     "author": "Bohemian Coding",
     "appcast": "https://raw.githubusercontent.com/BohemianCoding/svgo-compressor/develop/.appcast.xml",
     "homepage": "https://sketchapp.com/extensions/plugins/svgo-compressor/",
-    "lastUpdated": "2020-07-30 07:52:08 UTC"
+    "lastUpdated": "2020-08-23 08:46:05 UTC"
   },
   {
     "description": "ScreenFork is the Sketchapp plugin that export screens and their variants based on Layer prefix",
@@ -2375,7 +2375,7 @@
     "title": "Android Res Export",
     "owner": "Ashung",
     "author": "Ashung Hung",
-    "lastUpdated": "2020-08-01 11:43:14 UTC"
+    "lastUpdated": "2020-08-27 13:49:23 UTC"
   },
   {
     "description": "Sketch Plugins",
@@ -2542,7 +2542,7 @@
     "name": "QuickColor",
     "owner": "colesperks",
     "author": "Cole Perkins",
-    "lastUpdated": "2018-02-19 04:07:46 UTC",
+    "lastUpdated": "2020-08-28 16:28:17 UTC",
     "title": "QuickColor"
   },
   {
@@ -3286,7 +3286,7 @@
     "author": "Oscar Oto",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-08-13 05:38:31 UTC"
+    "lastUpdated": "2020-08-27 11:34:23 UTC"
   },
   {
     "title": "Blender",
@@ -4343,7 +4343,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-08-13 05:00:40 UTC"
+    "lastUpdated": "2020-08-25 08:30:03 UTC"
   },
   {
     "title": "Convert To Grayscale",
