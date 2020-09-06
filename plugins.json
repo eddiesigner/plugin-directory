@@ -969,7 +969,7 @@
     "name": "RemoveAllGuides",
     "appcast": "https://raw.githubusercontent.com/ichik/removeallguides/master/.appcast.xml",
     "homepage": "https://github.com/ichik/removeallguides",
-    "lastUpdated": "2020-07-30 08:22:43 UTC"
+    "lastUpdated": "2020-09-05 23:08:53 UTC"
   },
   {
     "description": "Sketch 3 plugin that align layers relative to more options.",
@@ -1340,7 +1340,7 @@
     "author": "James Tang",
     "owner": "jamztang",
     "homepage": "http://magicmirror.design",
-    "lastUpdated": "2020-02-16 05:29:42 UTC"
+    "lastUpdated": "2020-09-01 01:29:44 UTC"
   },
   {
     "description": "Sketch Plugins to export selected artboard or layers for Replia.",
@@ -1402,7 +1402,7 @@
     "title": "Logo Fetcher",
     "author": "Tobi Kremer",
     "owner": "soulchild",
-    "lastUpdated": "2020-07-30 03:53:36 UTC"
+    "lastUpdated": "2020-09-03 12:18:17 UTC"
   },
   {
     "description": "Sketch plugin to count number of characters in a text layer",
@@ -1481,7 +1481,7 @@
     "title": "Replace Images",
     "author": "shakemno",
     "owner": "shakemno",
-    "lastUpdated": "2020-07-30 07:48:22 UTC"
+    "lastUpdated": "2020-09-05 01:35:08 UTC"
   },
   {
     "description": "Add Mouse Pointers to Sketch.",
@@ -2729,7 +2729,7 @@
     "title": "Sketch Map Generator",
     "owner": "eddiesigner",
     "author": "Eduardo Gómez Vásquez",
-    "lastUpdated": "2020-08-02 12:11:54 UTC"
+    "lastUpdated": "2020-09-02 17:24:34 UTC"
   },
   {
     "description": "A Sketch plugin to easily edit your nudge distance settings.",
@@ -2825,7 +2825,7 @@
     "title": "Randomcolors",
     "owner": "avadhbsd",
     "author": "Avadh",
-    "lastUpdated": "2018-05-09 15:31:38 UTC"
+    "lastUpdated": "2020-09-03 03:52:35 UTC"
   },
   {
     "description": "Rotate the orientation of an artboard - from portrait to landscape, and vice versa.",
@@ -3491,7 +3491,7 @@
     "author": "Aparajita Fishman",
     "owner": "aparajita",
     "name": "sketch-groupie",
-    "lastUpdated": "2017-11-07 17:18:25 UTC"
+    "lastUpdated": "2020-09-04 00:25:15 UTC"
   },
   {
     "title": "P5 Sketchplugin",
@@ -3507,7 +3507,7 @@
     "author": "Dennis Ploeger",
     "owner": "dploeger",
     "name": "sketch-plugin-units",
-    "lastUpdated": "2020-07-30 12:36:42 UTC",
+    "lastUpdated": "2020-09-05 19:44:30 UTC",
     "appcast": "https://raw.githubusercontent.com/dploeger/sketch-plugin-units/master/.appcast.xml"
   },
   {
@@ -3518,7 +3518,7 @@
     "author": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-dev-tools",
-    "lastUpdated": "2020-07-30 06:17:56 UTC"
+    "lastUpdated": "2020-09-04 23:36:49 UTC"
   },
   {
     "title": "Sketch Align To Grid",
@@ -3949,7 +3949,7 @@
     "appcast": "https://raw.githubusercontent.com/mathieudutour/rough-sketch/master/.appcast.xml",
     "homepage": "https://github.com/mathieudutour/rough-sketch",
     "author": "mathieudutour",
-    "lastUpdated": "2020-07-30 06:18:40 UTC"
+    "lastUpdated": "2020-09-05 21:00:38 UTC"
   },
   {
     "title": "polyglot",
@@ -4002,7 +4002,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "reset-image-aspect-ratio",
-    "lastUpdated": "2020-07-30 01:12:03 UTC"
+    "lastUpdated": "2020-09-05 20:53:37 UTC"
   },
   {
     "title": "Inter UI Character Spacing",
@@ -4012,7 +4012,7 @@
     "appcast": "https://raw.githubusercontent.com/qruzz/InterUI-Character-Spacing/master/.appcast.xml",
     "homepage": "https://github.com/qruzz/InterUI-Character-Spacing",
     "author": "Michael Nissen",
-    "lastUpdated": "2020-07-30 00:41:12 UTC"
+    "lastUpdated": "2020-09-05 16:50:52 UTC"
   },
   {
     "title": "Chromata",
@@ -4067,7 +4067,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "photo-grid",
-    "lastUpdated": "2020-07-30 00:52:07 UTC"
+    "lastUpdated": "2020-09-05 18:23:00 UTC"
   },
   {
     "title": "Stickers",
@@ -4077,7 +4077,7 @@
     "appcast": "https://raw.githubusercontent.com/romannurik/Sketch-Stickers/master/.appcast.xml",
     "homepage": "https://github.com/romannurik/Sketch-Stickers",
     "author": "Roman Nurik",
-    "lastUpdated": "2020-07-30 01:00:58 UTC"
+    "lastUpdated": "2020-09-05 12:19:00 UTC"
   },
   {
     "description": "Create, customize, and share your own Material theme. Includes Material Theme Editor, plus upload and sync to Gallery.",
@@ -4343,7 +4343,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-08-25 08:30:03 UTC"
+    "lastUpdated": "2020-09-03 08:20:19 UTC"
   },
   {
     "title": "Convert To Grayscale",
