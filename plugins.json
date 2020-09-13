@@ -113,7 +113,7 @@
     "owner": "monzo",
     "author": "Monzo",
     "homepage": "https://github.com/monzo/file-cleaner",
-    "lastUpdated": "2020-07-30 09:28:22 UTC"
+    "lastUpdated": "2020-09-07 16:43:45 UTC"
   },
   {
     "description": "Select multiple layers/groups/artboards and rename all of them on the go.",
@@ -490,7 +490,7 @@
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-08-24 15:00:30 UTC"
+    "lastUpdated": "2020-09-10 18:20:37 UTC"
   },
   {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
@@ -969,7 +969,7 @@
     "name": "RemoveAllGuides",
     "appcast": "https://raw.githubusercontent.com/ichik/removeallguides/master/.appcast.xml",
     "homepage": "https://github.com/ichik/removeallguides",
-    "lastUpdated": "2020-09-05 23:08:53 UTC"
+    "lastUpdated": "2020-09-06 08:59:03 UTC"
   },
   {
     "description": "Sketch 3 plugin that align layers relative to more options.",
@@ -1481,7 +1481,7 @@
     "title": "Replace Images",
     "author": "shakemno",
     "owner": "shakemno",
-    "lastUpdated": "2020-09-05 01:35:08 UTC"
+    "lastUpdated": "2020-09-07 06:14:34 UTC"
   },
   {
     "description": "Add Mouse Pointers to Sketch.",
@@ -3232,7 +3232,7 @@
     "author": "Siddhartha Gudipati",
     "owner": "websiddu",
     "name": "sketch-material",
-    "lastUpdated": "2020-07-30 13:40:18 UTC"
+    "lastUpdated": "2020-09-09 07:36:10 UTC"
   },
   {
     "title": "Sketch Number Artboards",
@@ -3336,7 +3336,7 @@
     "homepage": "https://github.com/mcansh/squash-sketchplugin",
     "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
     "description": "Export and optimize images with Realmac Squash",
-    "lastUpdated": "2020-07-30 21:49:26 UTC"
+    "lastUpdated": "2020-09-10 06:08:57 UTC"
   },
   {
     "title": "Sketch Title Case",
@@ -3518,7 +3518,7 @@
     "author": "skpm",
     "appcast": "https://raw.githubusercontent.com/skpm/sketch-dev-tools/master/.appcast.xml",
     "homepage": "https://github.com/skpm/sketch-dev-tools",
-    "lastUpdated": "2020-09-04 23:36:49 UTC"
+    "lastUpdated": "2020-09-06 14:29:50 UTC"
   },
   {
     "title": "Sketch Align To Grid",
@@ -3939,7 +3939,7 @@
     "appcast": "https://raw.githubusercontent.com/lukasoppermann/browser-preview/master/.appcast.xml",
     "homepage": "https://github.com/lukasoppermann/browser-preview",
     "author": "Lukas Oppermann",
-    "lastUpdated": "2020-07-30 00:13:13 UTC"
+    "lastUpdated": "2020-09-07 14:35:30 UTC"
   },
   {
     "title": "Rough",
@@ -3986,7 +3986,7 @@
     "author": "Giles Perry",
     "owner": "perrysmotors",
     "name": "sketch-library-unlinker",
-    "lastUpdated": "2020-07-30 11:22:24 UTC"
+    "lastUpdated": "2020-09-08 08:44:11 UTC"
   },
   {
     "title": "Format Symbol Names",
@@ -4289,7 +4289,7 @@
     "owner": "griffin-stewie",
     "appcast": "https://raw.githubusercontent.com/griffin-stewie/SymbolNameSync/master/.appcast.xml",
     "name": "SymbolNameSync",
-    "lastUpdated": "2020-07-30 19:17:44 UTC"
+    "lastUpdated": "2020-09-12 02:31:04 UTC"
   },
   {
     "title": "adjustToFit",
@@ -4343,7 +4343,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-09-03 08:20:19 UTC"
+    "lastUpdated": "2020-09-08 10:15:47 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4390,7 +4390,7 @@
     "owner": "BohemianCoding",
     "appcast": "https://raw.githubusercontent.com/BohemianCoding/sketch-image-compressor/master/.appcast.xml",
     "homepage": "https://github.com/BohemianCoding/sketch-image-compressor",
-    "lastUpdated": "2020-08-11 18:22:01 UTC"
+    "lastUpdated": "2020-09-06 14:59:47 UTC"
   },
   {
     "title": "Artboard Manager",
@@ -4400,7 +4400,7 @@
     "appcast": "https://raw.githubusercontent.com/bomberstudios/artboard-manager/master/.appcast.xml",
     "homepage": "https://github.com/bomberstudios/artboard-manager#readme",
     "author": "Ale Muñoz",
-    "lastUpdated": "2020-08-11 20:32:56 UTC"
+    "lastUpdated": "2020-09-06 14:25:46 UTC"
   },
   {
     "title": "Better Shadow",
