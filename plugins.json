@@ -1721,7 +1721,7 @@
     "title": "Automate Sketch",
     "author": "Ashung Hung",
     "owner": "Ashung",
-    "lastUpdated": "2020-08-23 14:02:32 UTC"
+    "lastUpdated": "2020-09-24 14:25:33 UTC"
   },
   {
     "description": "Sketch plugin that let's you move selected layers verticaly and horizontaly.",
@@ -3664,7 +3664,7 @@
     "author": "Pavel Kuligin",
     "owner": "pavelkuligin",
     "name": "chart",
-    "lastUpdated": "2020-08-11 10:19:17 UTC"
+    "lastUpdated": "2020-09-25 17:57:38 UTC"
   },
   {
     "description": "Version control for designers",
@@ -4022,7 +4022,7 @@
     "appcast": "https://raw.githubusercontent.com/abnamrocoesd/Chromata/master/.appcast.xml",
     "homepage": "https://github.com/abnamrocoesd/Chromata",
     "author": "Vladimir Ionița",
-    "lastUpdated": "2020-06-18 15:32:18 UTC"
+    "lastUpdated": "2020-09-22 16:28:14 UTC"
   },
   {
     "description": "Update all the colors in an artboard to the latest Bonsai colors.",
@@ -4202,7 +4202,7 @@
     "owner": "Frontify",
     "appcast": "https://raw.githubusercontent.com/Frontify/sketch/master/.appcast.xml",
     "homepage": "https://github.com/Frontify/sketch",
-    "lastUpdated": "2020-07-16 01:09:24 UTC"
+    "lastUpdated": "2020-09-21 13:53:14 UTC"
   },
   {
     "title": "AutoFixiOSTextLineHeight",
@@ -4343,7 +4343,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-09-08 10:15:47 UTC"
+    "lastUpdated": "2020-09-25 09:01:05 UTC"
   },
   {
     "title": "Convert To Grayscale",
