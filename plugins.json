@@ -464,7 +464,7 @@
     "owner": "AnimaApp",
     "author": "Anima Team",
     "homepage": "https://launchpad.animaapp.com",
-    "lastUpdated": "2019-03-22 19:20:31 UTC"
+    "lastUpdated": "2020-09-30 15:26:27 UTC"
   },
   {
     "description": "Create basic word clouds and tag clouds.",
@@ -490,7 +490,7 @@
     "owner": "stark-contrast",
     "author": "Michael Fouquet, Cat Noone, Benedikt Lehnert",
     "homepage": "http://www.getstark.co",
-    "lastUpdated": "2020-09-10 18:20:37 UTC"
+    "lastUpdated": "2020-10-01 15:11:28 UTC"
   },
   {
     "description": "Document your design system using beautifully simple styleguides synced with Sketch and code 💎 💻",
@@ -560,7 +560,7 @@
     "title": "Click-Thru Prototype",
     "author": "Mark Horgan",
     "owner": "markhorgan",
-    "lastUpdated": "2017-10-11 12:53:04 UTC"
+    "lastUpdated": "2020-09-30 19:06:03 UTC"
   },
   {
     "description": "Responsive design inside Sketch. Design for all screen sizes on one artboard.",
@@ -1917,7 +1917,7 @@
     "title": "Base64 PNG Export",
     "owner": "jawayang",
     "author": "james yang",
-    "lastUpdated": "2017-05-14 16:23:20 UTC"
+    "lastUpdated": "2020-10-02 10:42:32 UTC"
   },
   {
     "description": "This plugin for Sketch takes the selected layer and create new rectangles with sizes proportional to it.",
@@ -4343,7 +4343,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-09-25 09:01:05 UTC"
+    "lastUpdated": "2020-09-29 03:11:28 UTC"
   },
   {
     "title": "Convert To Grayscale",
