@@ -771,7 +771,7 @@
     "name": "sketch-measure",
     "title": "Sketch Measure",
     "owner": "utom",
-    "lastUpdated": "2020-05-19 16:03:02 UTC"
+    "lastUpdated": "2020-10-12 08:34:44 UTC"
   },
   {
     "description": "Sketch app plugin for generating dummy data such as avatars, names, photos, geo data etc.",
@@ -3286,7 +3286,7 @@
     "author": "Oscar Oto",
     "owner": "oodesign",
     "name": "merge-duplicate-symbols",
-    "lastUpdated": "2020-10-10 05:20:08 UTC"
+    "lastUpdated": "2020-10-17 14:42:15 UTC"
   },
   {
     "title": "Blender",
@@ -3739,7 +3739,7 @@
     "owner": "MengTo",
     "appcast": "https://raw.githubusercontent.com/MengTo/Angle-Sketch-Plugin/master/.appcast.xml",
     "homepage": "https://designcode.io/angle",
-    "lastUpdated": "2020-07-07 19:12:05 UTC"
+    "lastUpdated": "2020-10-14 14:32:53 UTC"
   },
   {
     "title": "Fast Text Transfer",
@@ -4343,7 +4343,7 @@
     "appcast": "https://raw.githubusercontent.com/Cracker9/cracker9-sketch-plugin/master/.appcast.xml",
     "homepage": "https://github.com/Cracker9/cracker9-sketch-plugin",
     "author": "Cracker9",
-    "lastUpdated": "2020-10-08 08:32:19 UTC"
+    "lastUpdated": "2020-10-15 09:00:57 UTC"
   },
   {
     "title": "Convert To Grayscale",
@@ -4381,7 +4381,7 @@
     "appcast": "https://raw.githubusercontent.com/wantedly/sketch-wt-design/master/.appcast.xml",
     "homepage": "https://github.com/wantedly/sketch-wt-design",
     "author": "Yoshinori Kawasaki",
-    "lastUpdated": "2018-08-03 10:42:05 UTC"
+    "lastUpdated": "2020-10-12 06:52:45 UTC"
   },
   {
     "title": "Sketch Image Compressor",
